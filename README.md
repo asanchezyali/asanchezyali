@@ -34,6 +34,9 @@ I am a mathematician, but also a programmer. I have experience in software devel
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg" /> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg" /></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" height='42px' /> </a>
+<br>
+<br>
+<br>
 <a href="https://gohugo.io/" target="_blank"> <img align="left" src="https://matthiasadler.info/assets/b9e1ef29/2af735c0/e32a47d61600df21786356e1ffe88d5b34f02c96cb18ffd5.png" alt="hugo" height='42px'/> </a>
 <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank"> <img align="left" src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" alt="solidity" height="42px"/> </a> 
 <a href="https://hardhat.org/" target="_blank"> <img align="left" src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" alt="hardhat" height="42px"/> </a> 
