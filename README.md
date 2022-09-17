@@ -5,7 +5,7 @@ I am a mathematician, but also a programmer. I have experience in software devel
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
   
 ### 🧐 More About Me:
 
@@ -18,8 +18,6 @@ I am a mathematician, but also a programmer. I have experience in software devel
 - 📝 &nbsp; Checkout my [resume](https://github.com/asanchezyali/cv/blob/master/cv_en.pdf)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels
 
-<br>
-<br>
 <br>
 
 ### 🔨 Languages and Tools:
