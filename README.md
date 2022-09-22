@@ -5,9 +5,8 @@ I am a mathematician, but also a programmer. I have experience in software devel
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
-  
 ### 🧐 More About Me:
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
 - 🔭 &nbsp; I’m currently working for **Monadical**
 - 🤝 &nbsp; I’m looking to collaborate on [Optrees](https://github.com/asanchezyali/optrees)
