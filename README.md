@@ -11,7 +11,7 @@ I am a mathematician, but also a programmer. I have experience in software devel
 - 🔭 &nbsp; I’m currently working for **Monadical**
 - 🤝 &nbsp; I’m looking to collaborate on [Optrees](https://github.com/asanchezyali/optrees)
 - 🌱 &nbsp; I’m currently learning Rust and Deep Learning
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/asanchezyali?tab=repositories)
+- 👨 &nbsp; Most of my projects are available on [Github](https://github.com/asanchezyali?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/asanchezyali/)
 - 📝 &nbsp; Checkout my [resume](https://github.com/asanchezyali/cv/blob/master/cv_en.pdf)
