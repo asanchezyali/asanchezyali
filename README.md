@@ -36,7 +36,7 @@ I'm a mathematician with extensive experience in software development, artificia
 - 🚴 I love cycling
 - 🏔️ I'm passionate about mountain climbing
 
-  ## Contact 📫
+## Contact 📫
 
 - 📧 Email: [asanchezyali@gmail.com](mailto:asanchezyali@gmail.com)
 - 💼 LinkedIn: [@asanchezyali](https://www.linkedin.com/in/asanchezyali/)
