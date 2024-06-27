@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://www.asanchezyali.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/asanchezyali-FF7139.svg?&style=flat-square&logo=Firefox-Browser&logoColor=white&link=https://asanchezyali.com"></a>
     <a href="https://github.com/asanchezyali/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@asanchezyali-%23121011?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/asanchezyali"></a>
-    <a href="https://twitter.com/asanchezyali" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@asanchezyali-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/asanchezyali"></a>
+    <a href="https://twitter.com/asanchezyali" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@asanchezyali-%231DA1F2?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/asanchezyali"></a>
     <a href="https://www.linkedin.com/in/asanchezyali" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-@asanchezyali-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/asanchezyali/"></a>
     <a href="https://math.stackexchange.com/users/217786/alejandro-s%c3%a1nchez-yal%c3%ad" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-@asanchezyali-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white&link=https://math.stackexchange.com/users/217786/alejandro-s%c3%a1nchez-yal%c3%ad"></a>
       <a href="https://www.instagram.com/asanchezyali/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-@asanchezyali-12100E?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/asanchezyali/"></a>
