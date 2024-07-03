@@ -17,7 +17,7 @@ I'm a mathematician with extensive experience in software development, artificia
 
 ## Professional Experience 💼
 
-- 🔭 &nbsp; I’m currently working for **Monadical**
+- 🔭 &nbsp; I’m currently working for **[Monadical](https://monadical.com/)**
 - 📝 &nbsp; Checkout my [resume](https://github.com/asanchezyali/cv/blob/master/cv_en.pdf)
 
 ## Technical Skills 🛠️
