@@ -43,7 +43,7 @@ I'm a mathematician with extensive experience in software development, artificia
 
 ## GitHub Stats 📊
 
-![Your GitHub stats](https://github-readme-stats-one-iota-66.vercel.app/api?username=asanchezyali&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats-one-iota-66.vercel.app/api?username=asanchezyali&theme=radical&show_icons=true&hide_border=true&include_all_commits=true)
 
 Thanks for visiting my profile! I'm always open to new connections and collaboration opportunities. 😊
 
