@@ -17,7 +17,7 @@ I'm a mathematician with extensive experience in software development, artificia
 
 ## Professional Experience 💼
 
-- 🔭 &nbsp; I’m currently working for **[Monadical](https://monadical.com/)**
+- 🔭 &nbsp; I’m currently open to hearing about job opportunities
 - 📝 &nbsp; Checkout my [resume](https://github.com/asanchezyali/cv/blob/master/cv_en.pdf)
 
 ## Technical Skills 🛠️
@@ -32,7 +32,7 @@ I'm a mathematician with extensive experience in software development, artificia
 
 - 📚 I read fantasy and fiction novels
 - ♟️ I enjoy playing chess
-- 🚴 I love cycling
+- 🚴 I love mountain biking
 - 🏔️ I'm passionate about mountain climbing
 
 ## Contact 📫
