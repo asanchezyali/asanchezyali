@@ -13,7 +13,13 @@
 
 ## About Me 🧠
 
-I'm a mathematician with extensive experience in software development, artificial intelligence, and blockchain technologies. My diverse skill set spans multiple programming languages including Python, JavaScript, Rust, C++, and C, allowing me to tackle a wide range of complex problems and projects. With a strong foundation in mathematical principles, I bring a unique perspective to software engineering and data analysis. My expertise in AI encompasses machine learning algorithms, neural networks, and natural language processing, while my blockchain knowledge covers smart contract development and decentralized applications. Driven by a critical, curious, and creative mindset, I'm constantly exploring new ideas, staying updated with cutting-edge technologies, and seeking innovative ways to improve my work. This approach enables me to develop efficient, scalable solutions and contribute meaningfully to challenging projects across various domains of computer science and mathematics.
+I'm a senior software developer with a strong background in mathematics and extensive experience in software development, artificial intelligence, and blockchain technologies. My diverse skill set includes proficiency in programming languages such as Python, JavaScript, Rust, C++, and C, enabling me to tackle a wide array of complex problems and projects.
+
+With a solid foundation in mathematical principles, I provide a unique perspective on software engineering and data analysis. My expertise in AI encompasses machine learning algorithms, neural networks, and natural language processing, while my knowledge of blockchain includes smart contract development and decentralized applications.
+
+Driven by a critical, curious, and creative mindset, I continuously explore new ideas and stay updated with cutting-edge technologies. This approach allows me to develop efficient, scalable solutions and make meaningful contributions to challenging projects across various domains of computer science and mathematics.
+
+I'm excited to collaborate on innovative projects that push the boundaries of technology and create impactful solutions.
 
 ## Professional Experience 💼
 
