@@ -24,7 +24,7 @@ I'm excited to collaborate on innovative projects that push the boundaries of te
 ## Professional Experience 💼
 
 - 🔭 &nbsp; I’m currently open to hearing about job opportunities
-- 📝 &nbsp; Checkout my [resume](https://github.com/asanchezyali/cv/blob/master/cv_en.pdf)
+- 📝 &nbsp; Checkout my [resume](https://github.com/asanchezyali/technical-resume/blob/technical-resume/technical_resume.pdf)
 
 ## Technical Skills 🛠️
 
