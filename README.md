@@ -23,7 +23,7 @@ I'm excited to collaborate on innovative projects that push the boundaries of te
 
 ## Professional Experience 💼
 
-- 🔭 &nbsp; I’m currently open to hearing about job opportunities
+- 🔭 &nbsp; I’m currently open to hearing about job opportunities, [Upwork - Freelancer](https://www.upwork.com/freelancers/~01a356d30bfef60690?viewMode=1)
 - 📝 &nbsp; Checkout my [resume](https://github.com/asanchezyali/technical-resume/blob/technical-resume/technical_resume.pdf)
 
 ## Technical Skills 🛠️
