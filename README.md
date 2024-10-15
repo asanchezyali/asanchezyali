@@ -49,12 +49,10 @@ I'm excited to collaborate on innovative projects that push the boundaries of te
 
 ## GitHub Stats 📊
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-one-iota-66.vercel.app/api?username=asanchezyali&theme=radical&show_icons=true&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-one-iota-66.vercel.app/api/top-langs?username=asanchezyali&&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320&include_all_commits=true" />
-</a>
+<div>
+<img height=200 align="center" src="https://github-readme-stats-one-iota-66.vercel.app/api?username=asanchezyali&theme=radical&show_icons=true&hide_border=true&include_all_commits=true" />
+<img height=200 align="center" src="https://github-readme-stats-one-iota-66.vercel.app/api/top-langs?username=asanchezyali&&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320&include_all_commits=true" />
+</div>
 
 
 Thanks for visiting my profile! I'm always open to new connections and collaboration opportunities. 😊
