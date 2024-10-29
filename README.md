@@ -13,9 +13,9 @@
 
 ## About Me 🧠
 
-I'm a full stack software developer with a background in mathematics and experience in both traditional software development and projects involving AI and blockchain. Skilled in Python, JavaScript, C, and Rust, I work on a variety of applications, including AI-driven models and decentralized solutions.
+I'm a senior full stack software developer with a background in mathematics and experience in both traditional software development and projects involving AI and blockchain, skilled in developing both frontend and backend solutions. I work on a variety of applications, including AI-driven models and decentralized solutions.
 
-Driven by a critical, curious, and creative mindset, I continuously explore new ideas and stay updated with cutting-edge technologies. This approach allows me to develop efficient, scalable solutions and make meaningful contributions to challenging projects across various domains of computer science and mathematics.
+Driven by a critical, curious, and creative mindset, I continuously explore new ideas and stay updated with cutting-edge technologies. This approach allows me to develop efficient, scalable solutions and make meaningful contributions to challenging projects across various domains in technology.
 
 I'm excited to collaborate on innovative projects that push the boundaries of technology and create impactful solutions.
 
