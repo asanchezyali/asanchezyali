@@ -13,7 +13,7 @@
 
 ## About Me 🧠
 
-I'm a senior software developer with a strong background in mathematics and extensive experience in software development, artificial intelligence, and blockchain technologies. My diverse skill set includes proficiency in programming languages such as Python, JavaScript, Rust, C++, and C, enabling me to tackle a wide array of complex problems and projects.
+I'm a senior full-stack developer with a strong mathematical background and extensive experience in web application development, including projects utilizing AI and blockchain. My technical expertise spans Python, JavaScript, Rust, and C, enabling me to architect and deliver robust solutions
 
 With a solid foundation in mathematical principles, I provide a unique perspective on software engineering and data analysis. My expertise in AI encompasses machine learning algorithms, neural networks, and natural language processing, while my knowledge of blockchain includes smart contract development and decentralized applications.
 
