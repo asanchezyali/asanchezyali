@@ -52,6 +52,27 @@ I'm excited to collaborate on innovative projects that push the boundaries of te
 <img height=200 align="center" src="https://github-readme-stats-one-iota-66.vercel.app/api/top-langs?username=asanchezyali&&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320&include_all_commits=true" />
 </div>
 
+## 🌐 Check out my Blog
+
+You can visit the blog directly at: [Alejandro Sánchez Yalí's Blog](https://www.asanchezyali.com/) 🌍
+
+## 📝 Blog Posts
+
+Here’s a list of the latest posts from my blog:
+
+1. [Revolutionize Animation: Build a Digital Human with Large Language Models.](https://www.asanchezyali.com/blog/en/ai-avatars/20240703DigitalHuman)
+2. [Kraken the Code: How to build a talking avatar.](https://www.asanchezyali.com/blog/en/ai-avatars/2024020AIAvatar)
+3. [Division Algorithm](https://www.asanchezyali.com/blog/en/number-theory/20230108DivisionAlgorithm)
+4. [How to build a modular arithmetic library in Python.](https://www.asanchezyali.com/blog/en/modular-arithmetic/20220510ModularArithmetic)
+5. [Exploring Machine and Human Learning: Principles and Processes.](https://www.asanchezyali.com/blog/en/ml/20210712MachineLearning)
+6. [Operator Overloading in Python.](https://www.asanchezyali.com/blog/en/operator-overloading/20210615OperatorOverloadingInPython)
+7. [Neural networks represented as DAGs of parameterized computational programs](https://www.asanchezyali.com/blog/en/differentiable-programming/20240923DifferentiablePrograms)
+8. [Zero-Shot Text Classification](https://www.asanchezyali.com/blog/en/ai/20240917ZeroShot)
+9. [Create Your Own NFT Collection on Solana with IPFS](https://www.asanchezyali.com/blog/en/blockchain/20220323SolanaNFTandIPFS)
+10. [Developing Dapps on Solana](https://www.asanchezyali.com/blog/en/blockchain/20220310Solana)
+
+_More posts to come! Stay tuned._ 🎉
+
 
 Thanks for visiting my profile! I'm always open to new connections and collaboration opportunities. 😊
 
