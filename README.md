@@ -52,11 +52,11 @@ I'm excited to collaborate on innovative projects that push the boundaries of te
 <img height=200 align="center" src="https://github-readme-stats-one-iota-66.vercel.app/api/top-langs?username=asanchezyali&&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320&include_all_commits=true" />
 </div>
 
-## 🌐 Check out my Blog
+## Check out my Blog 🌐
 
 You can visit the blog directly at: [Alejandro Sánchez Yalí's Blog](https://www.asanchezyali.com/) 🌍
 
-## 📝 Blog Posts
+## Blog Posts 📝
 
 Here’s a list of the latest posts from my blog:
 
